@@ -7,10 +7,6 @@
     <title>TEST page</title>
 </head>
 <body>
-
-<div class="center">
 <h2>Welcome to Ukraine ! ! !</h2>
-</div>
-
 </body>
 </html>
