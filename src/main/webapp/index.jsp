@@ -8,8 +8,9 @@
 </head>
 <body>
 
-<p align="right">Welcome to Ukraine ! ! !</p>
-<p align="center"> style="color:#ff0099; font-size:30px">
+<div class="center">
+<h2>Welcome to Ukraine ! ! !</h2>
+</div>
 
 </body>
 </html>
