@@ -9,7 +9,7 @@ node {
         sh "${mavenCMD} clean package"
     }    
     stage("Docker build"){
-        sh 'docker build -t maroderik/project_dev:1.0.0 .'
+        sh 'docker build -t project_dev:1.0.0 .'
     }
     
     stage("Docker push DockerHub"){
